@@ -32,9 +32,3 @@ A syllabus-like breakdown of all included programs:
 
 - **Encoded Hello World**: Base64 encoding and decoding for a unique twist.
 ---
-
-## **How to Use**
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/<your-github-username>/Python-Learning-Journey.git
-   cd Python-Learning-Journey
